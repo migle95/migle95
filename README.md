@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Currently I am attending **HyperionDev** bootcamp to develop coding skills, mainly focused on _Web Development_. So far I have gained knowledge in ***HTML, CSS, JavaScript*** coding. I'm also learning about functions and functional programming. The course is not halfway done yet, so there is still a lot of things to learn about!
+
+In the future, I will be looking for a career in Web Development, and I am already excited about my career change! 💻 At the moment I work in a coffee shop, so I'd say I excel at making coffee! ☕️
+
+
 <!--
 **migle95/migle95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
